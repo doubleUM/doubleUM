@@ -9,13 +9,10 @@ Perkenalkan nama saya **Wilson Manuel**.
 
 <p align="left">
 <a href="https://github.com/doubleUM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=doubleUM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=doubleUM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <br> <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doubleUM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?@doubleUM" frameborder="0" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleUM&langs_count=20&layout=compact&theme=dark)](https://github.com/doubleUM)
 
 <!--
 **doubleUM/doubleUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
