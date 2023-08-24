@@ -15,6 +15,8 @@ Perkenalkan nama saya **Wilson Manuel**.
   <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?@doubleUM" frameborder="0" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleUM&langs_count=20&layout=compact&theme=dark)](https://github.com/doubleUM)
+
 <!--
 **doubleUM/doubleUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
