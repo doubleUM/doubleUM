@@ -1,11 +1,9 @@
 ### Hi there 👋
-Perkenalkan nama saya **Wilson Manuel**.
+My name is **Wilson Manuel**.
 
-- 🔭 I’m currently not working yet
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with anything
+- 🔭 I’m currently working as an AI Development Tester Intern
 - 📫 How to reach me: wilsonmanuel111@gmail.com
-- ⚡ Fun fact: I love travelling and eating so much
+- ⚡ Fun fact: I love traveling and eating so much
 
 <p align="left">
 <a href="https://github.com/doubleUM">
