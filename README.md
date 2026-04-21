@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Wilson Manuel**.
 
-- 🔭 I’m currently working as an AI Development Tester Intern
+- 🔭 I’m currently working as an AI & ML Engineer at Sinarmas Land
 - 📫 How to reach me: wilsonmanuel111@gmail.com
 - ⚡ Fun fact: I love traveling and eating so much
 
